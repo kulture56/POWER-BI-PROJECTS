@@ -7,12 +7,12 @@ A curated collection of interactive and insightful Power BI dashboards spanning 
 
 Each project is organized into its own directory, containing the necessary files for replication and exploration.​
 
-POWER-BI-PROJECTS/
-* Adidas Sales Analysis/
-* BLINKIT POWER BI PROJECT/
-* Camera Sales Analysis/
-* ELECTRIC-VEHICHLE-DASHBOARD/
-* Food-Beverage-Sale-Analysis-Dashboard/
-* HR-ANALYTICTS-DASHBOARD/
-* Olympics Power BI Dashboard/
-* Uber Trip Anaysis/
+POWER-BI-PROJECTS
+* Adidas Sales Analysis
+* BLINKIT POWER BI PROJECT
+* Camera Sales Analysis
+* ELECTRIC-VEHICHLE-DASHBOARD
+* Food-Beverage-Sale-Analysis-Dashboard
+* HR-ANALYTICTS-DASHBOARD
+* Olympics Power BI Dashboard
+* Uber Trip Anaysis
