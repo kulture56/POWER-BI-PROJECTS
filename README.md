@@ -1,7 +1,5 @@
 # POWER-BI-PROJECTS 📊
-![image](https://github.com/user-attachments/assets/49b807d6-61b3-4b74-a66d-081adaeafe48) ![ChatGPT Image Apr 11, 2025, 12_13_52 PM](https://github.com/user-attachments/assets/41472525-ae75-481b-9b23-b78f84c7616a)
-
-
+![image](https://github.com/user-attachments/assets/49b807d6-61b3-4b74-a66d-081adaeafe48) 
 ## Data Visualizations 🕹️
  **Aloha! 👋🏽Welcome to the POWER-BI-PROJECTS repository!**
 * This space is dedicated to showcasing various Power BI projects involving: **data analysis, interactive dashboards, and impactful visual storytelling, reporting** across different industries.
@@ -20,3 +18,6 @@ Each project is organized into its own directory, containing the necessary files
 * HR-ANALYTICTS-DASHBOARD
 * Olympics Power BI Dashboard
 * Uber Trip Anaysis
+
+![ChatGPT Image Apr 11, 2025, 12_13_52 PM](https://github.com/user-attachments/assets/41472525-ae75-481b-9b23-b78f84c7616a)
+
