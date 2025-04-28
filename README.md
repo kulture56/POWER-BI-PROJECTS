@@ -2,6 +2,10 @@
 ## Data Visualizations
  ![PowerBiJobDoneGIF](https://github.com/user-attachments/assets/75e9757c-ac38-44a8-bf98-e6423f5d3e58)
 
+## POWER-BI-PROJECTS
+**Welcome to the POWER-BI-PROJECTS repository!**
+This space is dedicated to showcasing various Power BI projects involving data analysis, interactive dashboards, and impactful visual storytelling across different industries.
+
 A curated collection of interactive and insightful Power BI dashboards spanning various industries and analytical domains. This repository showcases data visualization projects that demonstrate proficiency in data modeling, DAX calculations, and storytelling through visuals.​
 
 **📁 Repository Structure**
