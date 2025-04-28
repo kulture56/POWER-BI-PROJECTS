@@ -1,5 +1,6 @@
 # POWER-BI-PROJECTS 📊
-![image](https://github.com/user-attachments/assets/49b807d6-61b3-4b74-a66d-081adaeafe48)
+![image](https://github.com/user-attachments/assets/49b807d6-61b3-4b74-a66d-081adaeafe48) ![ChatGPT Image Apr 11, 2025, 12_13_52 PM](https://github.com/user-attachments/assets/41472525-ae75-481b-9b23-b78f84c7616a)
+
 
 ## Data Visualizations 🕹️
  **Aloha! 👋🏽Welcome to the POWER-BI-PROJECTS repository!**
