@@ -9,7 +9,7 @@
 
 Each project is organized into its own directory, containing the necessary files for replication and exploration.​
 
-POWER-BI-PROJECTS
+**PROJECTS**
 * Adidas Sales Analysis
 * BLINKIT POWER BI PROJECT
 * Camera Sales Analysis
