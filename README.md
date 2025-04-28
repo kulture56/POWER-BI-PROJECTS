@@ -3,7 +3,7 @@
 
 ## Data Visualizations
  **Welcome to the POWER-BI-PROJECTS repository!**
-* This space is dedicated to showcasing various Power BI projects involving: **data analysis, interactive dashboards, and impactful visual storytelling, reporting" across different industries.
+* This space is dedicated to showcasing various Power BI projects involving: **data analysis, interactive dashboards, and impactful visual storytelling, reporting** across different industries.
 * A curated collection of interactive and insightful Power BI dashboards spanning various industries and analytical domains. This repository showcases data visualization projects that demonstrate proficiency in data modeling, DAX calculations, and storytelling through visuals.​
 
 # **📁 Repository Structure**
