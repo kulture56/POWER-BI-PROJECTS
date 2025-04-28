@@ -1,4 +1,5 @@
-# POWER-BI-PROJECTS 
+# POWER-BI-PROJECTS ![image](https://github.com/user-attachments/assets/49b807d6-61b3-4b74-a66d-081adaeafe48)
+
 ## Data Visualizations
  **Welcome to the POWER-BI-PROJECTS repository!**
 * This space is dedicated to showcasing various Power BI projects involving data analysis, interactive dashboards, and impactful visual storytelling across different industries.
