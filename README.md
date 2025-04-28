@@ -5,11 +5,11 @@
 * This space is dedicated to showcasing various Power BI projects involving data analysis, interactive dashboards, and impactful visual storytelling across different industries.
 * A curated collection of interactive and insightful Power BI dashboards spanning various industries and analytical domains. This repository showcases data visualization projects that demonstrate proficiency in data modeling, DAX calculations, and storytelling through visuals.​
 
-**📁 Repository Structure**
+# **📁 Repository Structure**
 
 Each project is organized into its own directory, containing the necessary files for replication and exploration.​
 
-**PROJECTS**
+# **PROJECTS**
 * Adidas Sales Analysis
 * BLINKIT POWER BI PROJECT
 * Camera Sales Analysis
